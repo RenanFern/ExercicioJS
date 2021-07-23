@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font: normal 15pt;
+}
+body{
+    background-color:rgb(236, 235, 235);
+}
+
+.container{
+    margin: auto;
+    margin-top: 10%;
+    width: 500px;
+    height: 500px;
+    border: 1px solid;
+    border-radius: 8px;
+    box-shadow: 3px 2px 10px;
+}
+header{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 14px;
+}
+form{
+    padding: 10px;
+}
+.sex{
+    margin-top: 10px;
+}
+#button{
+    margin-top: 10px;
+}
+#img{
+    margin-top: 80px;
+
+}
