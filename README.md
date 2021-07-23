@@ -1,3 +1,2 @@
 # ExercicioJS
-Exercicio JS do Curso em video
-Verificador de Idade
+Exercicio 'Verificador de Idade' do Curso em Video
